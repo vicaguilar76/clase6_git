@@ -1,1 +1,5 @@
-# clase6_git
+### Repositorio prueba
+
+IEXE Repositorio prueba 
+
+ #### Actividades GIT
